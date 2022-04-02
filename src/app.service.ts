@@ -37,5 +37,4 @@ export class AppService {
       .toPromise();
     return response.data;
   }
-  
 }
